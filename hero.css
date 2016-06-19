@@ -1,0 +1,53 @@
+.navbar-light .navbar-nav .nav-link {
+	color: #CCC4C1;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{ 
+	color: #CCC4C1;
+}
+
+.navbar-toggler{
+	color: #CCC4C1;
+}
+
+.nav-link{
+	color: #CCC4C1;
+}
+
+.form{
+	margin: 0 auto;
+	width:80%;
+}
+
+.form-group{
+	margin-bottom: 5px;
+}
+
+.form-control{
+	margin-left :25px;
+	width: 400px;
+}
+.btn{
+	background-color: #4C5870;
+	color:#3D3D3B;
+
+}
+
+.btn .active{
+	background-color: #4C5870;
+	color:#3D3D3B;
+
+}
+
+.row{
+	margin: 25px;
+}
+
+h1{
+	text-align: center;
+}
+
+.card img{
+	width: 100%;
+	height: 60%;
+}

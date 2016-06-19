@@ -1,0 +1,31 @@
+body {
+  padding: 2rem;
+  background-color: #FAD6A6;
+}
+h2 { 
+  color: #C4909D;
+  }
+h3 {
+  margin-top: 2rem;
+}
+
+.row {
+  margin-bottom: 1rem;
+}
+.row .row {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+#animals div{
+  padding: 1rem;
+  background-color: #C4D1DA;
+  color: #2094B9;
+  border: 2px solid #DE6F20 ;
+}
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+ 
